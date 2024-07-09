@@ -37,6 +37,12 @@
 -GPT search page
 -GPT search Bar
 -(⭐)Built Multilanguage feature in our app
+-Fetched Movies through search bar
+-created gptSlice added dat
+-Reused movie list component to make movie suggestion container
+-Memorization
+-Added .env file
+-Made our site responsive
 
 # features
 

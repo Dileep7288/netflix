@@ -36,7 +36,7 @@
 -Created Custom hook for popular movies,top rated,upcoming
 -GPT search page
 -GPT search Bar
--(⭐)Multilanguage feature in our app
+-(⭐)Built Multilanguage feature in our app
 
 # features
 
